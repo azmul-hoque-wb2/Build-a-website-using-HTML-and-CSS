@@ -1,0 +1,14 @@
+/* common styles  */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.name{
+    color: purple;
+    /* cursor: pointer; */
+    /* cursor: url('../images/background.png'),auto; */
+}
+.name:hover{
+    color: white;
+    background: purple;
+}
